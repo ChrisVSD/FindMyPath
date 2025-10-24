@@ -1,0 +1,9 @@
+/.gradle
+/local.properties
+/app/keystore.properties
+/app/*.keystore
+/app/build
+/**/build
+/.idea
+/.DS_Store
+/assets_to_import
